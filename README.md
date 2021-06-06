@@ -29,4 +29,4 @@ If you have dipped your toes in the blockchain space, you will notice that the l
 
 There are many caveats and obstacles to go from zero to a smart contract deployed on a running enterprise blockchain network. To get there, one has to be a jack of all trades with intimate knowledge of a blockchain protocol, the protocol consensus, deployment orchestration, the toolchain and so on.
 
-To walk someone through this—whether familiar with software development in general or a specific protocol, or someone just starting their blockchain journey—is a daunting task,
+To walk someone through the entire journey—whether familiar with software development in general or a specific protocol, or someone just starting their blockchain journey—is a daunting task.
