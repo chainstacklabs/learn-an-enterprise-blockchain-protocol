@@ -16,7 +16,7 @@ On MultiChain, accounts are created on the node-level and are not visible to the
 
 Nodes have roles—miner nodes and nodes. Miner nodes verify transactions and propagate blocks. Nodes keep ledger copies.
 
-TTK PIC
+![multichain-architecture](https://user-images.githubusercontent.com/10195782/120949188-89fc1700-c776-11eb-9c99-893975fba37c.png)
 
 See also a brief [MultiChain introduction](https://docs.chainstack.com/blockchains/multichain).
 
