@@ -10,7 +10,7 @@ A CorDapp must be installed on each of the nodes involved in an exchange. Unlike
 
 Each exchange is notarized by a separate node called the notary.
 
-TTK PIC
+![corda_architecture](https://user-images.githubusercontent.com/10195782/120948851-b19eaf80-c775-11eb-9a63-50305639d20c.jpg)
 
 ## Ecosystem
 
