@@ -8,9 +8,9 @@ On Quorum, a smart contract is called a smart contract. Just like in Ethereum, t
 
 Transaction privacy can be established by separate Tessera nodes.
 
-TTK PIC
+![quorum-ibft](https://user-images.githubusercontent.com/10195782/120948965-fe828600-c775-11eb-8982-2b02fc98d6bc.png)
 
-TTK PIC
+![quorum-raft](https://user-images.githubusercontent.com/10195782/120948984-0510fd80-c776-11eb-8fb7-c075e40bb33b.png)
 
 See also a brief [Quorum introduction](https://docs.chainstack.com/blockchains/quorum).
 
