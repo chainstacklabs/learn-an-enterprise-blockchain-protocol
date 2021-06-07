@@ -1,4 +1,4 @@
-# Picking an enterprise blockchain protocol to develop on: Introduction
+# Try an enterprise blockchain protocol to develop on
 
 ## In brief
 
