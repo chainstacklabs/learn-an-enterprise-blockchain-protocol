@@ -39,4 +39,4 @@ The rest of the instructions specific to the protocol are in the README files of
 
 ## Contributing
 
-
+See [CONTRIBUTING](CONTRIBUTING.md).
