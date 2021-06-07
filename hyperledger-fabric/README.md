@@ -12,7 +12,7 @@ Each exchange is done in a channel. Channels are established between organiz
 
 Transaction ordering is done by a separate node called the orderer.
 
-TTK PIC
+![hyperledger-fabric-architechture](https://user-images.githubusercontent.com/10195782/120949116-528d6a80-c776-11eb-9465-615934cb8631.png)
 
 See also a brief [Hyperledger Fabric introduction](https://docs.chainstack.com/blockchains/fabric).
 
