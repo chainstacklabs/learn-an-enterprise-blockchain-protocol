@@ -29,4 +29,14 @@ If you have dipped your toes in the blockchain space, you will notice that the l
 
 There are many caveats and obstacles to go from zero to a smart contract deployed on a running enterprise blockchain network. To get there, one has to be a jack of all trades with intimate knowledge of a blockchain protocol, the protocol consensus, deployment orchestration, the toolchain and so on.
 
-To walk someone through the entire journey—whether familiar with software development in general or a specific protocol, or someone just starting their blockchain journey—is a daunting task.
+To walk someone through the entire journey—whether familiar with software development in general or a specific protocol, or someone just starting their blockchain journey—is a daunting task. Hence, the walkthroughs rely on the infrastructure deployed with [Chainstack](https://chainstack.com/).
+
+## Environment setup
+
+You only need a [Chainstack account](https://console.chainstack.com/) to start with.
+
+The rest of the instructions specific to the protocol are in the README files of the respective protocol and language directories.
+
+## Contributing
+
+
